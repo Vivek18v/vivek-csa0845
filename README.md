@@ -34,3 +34,9 @@ Day 2
  8.Anagram
  9.regular expression
  10.Convert one word to another words
+Day 4 1.indexed
+ 2.student users 
+3.numbers arec smaller then the current number
+ 4.valid palindrome 
+5.array of integers 
+6.deleting occurences
